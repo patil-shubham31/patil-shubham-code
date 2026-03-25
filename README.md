@@ -1,10 +1,20 @@
-# Hi, I'm Shubham Patil
+# Hi, I'm Shubham Patil 
 
-*Frontend Developer
-  Learning HTML, CSS & JavaScript
-  
- *Projects
-   My Portfolio (Coming Soon)
-* Contact :8600481903
-* Email: [shubham.patil.dev@gmail.com](mailto:shubham.patil.dev@gmail.com)
+## Frontend Developer
 
+## About Me
+- Currently learning HTML, CSS, JavaScript, React.js, Boostrap
+- Goal: Become Full Stack Developer
+- Interested in Web Development
+
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React.js
+
+## Projects
+- Portfolio Website (Coming Soon)
+
+## Contact
+- Email: shubham.patil.dev@gmail.com
