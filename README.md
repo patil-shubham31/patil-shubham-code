@@ -2,6 +2,7 @@
 
 *Frontend Developer
   Learning HTML, CSS & JavaScript
+  
  *Projects
    My Portfolio (Coming Soon)
 * Contact :8600481903
